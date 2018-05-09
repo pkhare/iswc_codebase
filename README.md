@@ -4,7 +4,9 @@ The 'code' folder contains the python code for Machine Learning classifiers.
 
 The 'data' folder contains the various datasets described in the papre.
 
-The four features mentioned in the paper, 'Classifying Crises-Information Relevancy with Semantics', are Statistical Features (SF), BabelNet Features (SF+SemBN), DBpedia Features (SF+SemDB), and BabelNet+DBpedia Features (SF+SemBNDB).
+The four features mentioned in the paper, 'Cross-Lingual Classification of Crisis Data', are Statistical Features (SF), BabelNet Features (SF+SemBN), DBpedia Features (SF+SemDB), and BabelNet+DBpedia Features (SF+SemBNDB).
+
+The last analysis is with the translation method.
 
 The four folders, in 'data' folder mentioned hereby, contain the training and test data for each case tested in the paper:
 
